@@ -1,0 +1,54 @@
+header {
+	margin: auto;
+	width: 500px;
+	height: 500px;
+}
+
+ul {
+	height: 50px;
+	width: 900px;
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	padding:0px;
+	padding-top: 10px;
+	color: white;
+	background-color: black;
+}
+
+li {
+	display: inline;
+	text-align: center;
+	list-style-type: none;
+	padding: 30px;
+	border-bottom: none;
+	font-family: Grand Hotel;
+	Font-size: 30px;
+	color: white;
+}
+
+body {
+	background-color: tan;
+	text-align: center;
+}
+
+h2 {
+	font-family: Grand Hotel;
+	font-size: 30px;
+	text-align: center;
+}
+
+a:link, a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: grey;
+	text-decoration: none;
+}
+
+a:active {
+	color: lightblue;
+	text-decoration: none;
+}

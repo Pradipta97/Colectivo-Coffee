@@ -1,0 +1,13 @@
+table {
+	width: 900px;
+	text-align: center;
+	display: inline-table;
+	padding-top: 25px;
+}
+
+#bodytext {
+	text-align: center;
+	width: 900px;	
+	margin: 0 auto;
+	font-family: Verdana;
+}

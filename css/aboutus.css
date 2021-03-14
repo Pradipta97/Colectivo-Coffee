@@ -1,0 +1,38 @@
+#banner {
+	padding-bottom: 16px;
+}
+
+#banner3 {
+	padding-top: 22px;
+	padding-bottom: 18px;
+}
+
+#bodytext {
+	text-align: center;
+	width: 875px;	
+	margin: 0 auto;
+	font-family: Verdana;
+	background-color: white;
+	color: black;
+	padding: 12.5px;
+	padding-bottom: 25px;
+}
+
+#bodytext2 {
+	text-align: center;
+	width: 875px;	
+	margin: 0 auto;
+	font-family: Verdana;
+	background-color: white;
+	color: black;
+	padding: 12.5px;
+	padding-bottom: 25px;
+}
+
+#bodytext3 {
+	text-align: center;	
+	font-size: 10px;
+	font-family: Verdana;
+	padding-bottom: 15px;
+	padding-top: 25px;
+}
