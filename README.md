@@ -1,4 +1,6 @@
   A website built using HTML and CSS by Pradipta Dasgupta and Mat Vukanovich. 
 
- - Index.html is the main page and can be used to access all other pages. 
+ - index.html is the main page and can be used to access all other pages. 
+ - cafe.html lists all the items being sold.
+ - aboutus.html is a short introduction to the company. 
 
